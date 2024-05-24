@@ -1,5 +1,5 @@
 <web-app>
-<servlet>
+<servlet
 <servlet-name>hello</servlet-name>
 <servlet-class>hello.HelloServlet</servlet-class>
 </servlet>
